@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998344705564",
+    "project_id": "solo-ff366",
+    "storage_bucket": "solo-ff366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998344705564:android:0f6101e9e0e8cc727001d9",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998344705564-31gh1n7hnjk7n4qhq9oldtp8ilge9lg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfVBs2OWgZXByKeU5PIqXy32mH4SjU09M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998344705564-31gh1n7hnjk7n4qhq9oldtp8ilge9lg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
